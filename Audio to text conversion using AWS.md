@@ -15,3 +15,4 @@ NOTE: For doing this project you need aws management console account.
 
 1--> Login to AWS Management console and in search box click S3 and give name of the bucket . And next change ACLs as enabled and next click on create bucket.
 
+![1](https://user-images.githubusercontent.com/100197617/231859853-c98b1af2-71b7-4172-82c1-50607aa25a8b.png)
